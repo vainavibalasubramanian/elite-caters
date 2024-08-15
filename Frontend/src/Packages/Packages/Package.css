@@ -1,0 +1,16 @@
+#package_item_display {
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+  }
+  
+  #days button {
+    margin-left: 5%;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: 1px solid;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  
